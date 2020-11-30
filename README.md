@@ -1,6 +1,6 @@
 #                                                       Estagio1Phaser3Game - SKYHAWK
 
-    SKYHAWK é um jogo desenvolvido com uso do Phaser3, neste jogo o jogador deve eliminar os inimuigos no menor
+    SKYHAWK é um jogo desenvolvido com uso do Phaser3, neste jogo, o jogador deve eliminar os inimuigos no menor
     tempo possivel.
 
 #                Gênero 
