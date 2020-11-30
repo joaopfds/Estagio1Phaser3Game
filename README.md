@@ -21,8 +21,8 @@
      -> Naves inimigas - Alienígena invasores.
 
 #                Como jogar 
-                                           ↑
-      -> Movinentação - setas teclado -  ← ↓ →
+                                              ↑
+      -> Movinentação - setas do teclado -  ← ↓ →
 
       -> Atirar - "ESPAÇO"
 
