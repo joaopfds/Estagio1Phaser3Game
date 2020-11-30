@@ -75,14 +75,6 @@ class PlayGame extends Phaser.Scene
         this.ammo1 = this.physics.add.sprite(3200,1250, 'ammo');
         this.ammo2 = this.physics.add.sprite(500,1000, 'ammo');
         
-        // ---------------------------------------------------------
-
-        //this.physics.add.collider(ovni2, this.bala, hitDeath, null, this);
-        /*this.et3 = map.createFromObjects("enemy", "enemy", {});
-        this.et3.forEach((enemy) => {
-            this.add.sprite(enemy.x, enemy.y - 15, 'ovni');
-        });*/
-
         // ---------- camera e HUD ----------------------------
         this.camera = this.cameras.main;
         this.camera.startFollow(this.player);
