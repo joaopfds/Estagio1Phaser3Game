@@ -16,7 +16,7 @@
         reconquistando o controle planeta Terra.
 
 #                Personagens
-     -> Comandante Maverick - Comomandante mais renomado da força aérea no comando do caça ultra avançado.
+     -> Comandante Maverick - Comomandante mais renomado da força aérea no comando do caça SKYHAWK.
 
      -> Naves inimigas - Alienígena invasores.
 
